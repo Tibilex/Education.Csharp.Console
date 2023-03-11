@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Input.Output2", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Input.Output3", "Console,Input.Output3\Console.Input.Output3.csproj", "{293E4EE8-2EAE-4A12-8E85-4EEF8244B1EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.Reverse", "Arrays.Reverse\Arrays.Reverse.csproj", "{92D7A7F6-0B2D-40A3-9A6A-F6426D563853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.Min.Max.Arifmetic", "Arrays.Min.Max.Arifmetic\Arrays.Min.Max.Arifmetic.csproj", "{BDA6353A-306C-404C-8073-704BCC0C7D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{293E4EE8-2EAE-4A12-8E85-4EEF8244B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293E4EE8-2EAE-4A12-8E85-4EEF8244B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293E4EE8-2EAE-4A12-8E85-4EEF8244B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D7A7F6-0B2D-40A3-9A6A-F6426D563853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D7A7F6-0B2D-40A3-9A6A-F6426D563853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D7A7F6-0B2D-40A3-9A6A-F6426D563853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D7A7F6-0B2D-40A3-9A6A-F6426D563853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA6353A-306C-404C-8073-704BCC0C7D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA6353A-306C-404C-8073-704BCC0C7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA6353A-306C-404C-8073-704BCC0C7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA6353A-306C-404C-8073-704BCC0C7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
